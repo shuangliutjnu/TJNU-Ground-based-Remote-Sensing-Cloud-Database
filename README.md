@@ -6,8 +6,8 @@ The TJNU ground-based remote sensing cloud database (TJNU-GRSCD) is collected in
 
 # If you use this dataset in your research, please kindly cite our work as,
 @article{liu2020ground,  
+title = {Ground-Based Cloud Classification Using Task-Based Graph Convolutional Network},
 author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},  
-title = {Ground-Based Cloud Classification Using Task-Based Graph Convolutional Network},  
 journal = {Geophysical Research Letters},  
 volume = {47},  
 number = {5},  
