@@ -29,4 +29,4 @@ publisher = {Multidisciplinary Digital Publishing Institute}
 }
 
 # Download
-Before downloading the dataset, you should warrant that you have read and understood all elements contained in the TJNU-GRSCD Agreement. Downloading and using TJNU-GRSCD for your research means that you agree to all restrictions and requirements in the TJNU-GRSCD Agreement.
+Before downloading the dataset, you should warrant that you have read and understood all elements contained in the [TJNU-GRSCD Agreement](https://github.com/shuangliutjnu/TJNU-Ground-based-Remote-Sensing-Cloud-Database/blob/main/TJNU-GRSCD%20Agreement.pdf). [Downloading](https://drive.google.com/file/d/1H5jK4LFeGGEZF-kcexUxb0oG7mIZW9A5/view?usp=sharing) and using TJNU-GRSCD for your research means that you agree to all restrictions and requirements in the TJNU-GRSCD Agreement.
